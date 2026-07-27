@@ -16,7 +16,7 @@ sys.path.insert(0, project_root)
 
 # -- Project information -----------------------------------------------------
 
-project = 'ASPECT-Landlab Test Python Framework'
+project = 'Study Documentation Framework'
 copyright = '2026, Biraj Borgohain'
 author = 'Biraj Borgohain'
 release = '0.1'
