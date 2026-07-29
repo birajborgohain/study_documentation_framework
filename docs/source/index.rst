@@ -24,6 +24,7 @@ organize, document, and master every aspect of the examination syllabus.
 .. toctree::
    :maxdepth: 2
 
+   activity_plan/index
    introduction_overview/index
    exam_syllebus/index
    practice_problems/index
