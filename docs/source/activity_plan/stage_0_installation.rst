@@ -56,24 +56,24 @@ Activity Timeline
 
           <span style="color:green;font-weight:bold;">Started</span>
 
-     - Linux installation completed.
+     - Installating Linux.
 
    * - 10 August 2026
      - ☐ Not Started
-     - VS Code installed and configured.
+     - Installing and configuring VS Code.
 
    * - 15 August 2026
      - ☐ Not Started
-     - Basic Linux and VS Code skills acquired.
+     - Acquiring Basic coding in Linux and VS Code.
 
    * - 30 August 2026
      - ☐ Not Started
-     - Application source code (Study Documentation Framework) compiled and executed.
+     - Compiling the source code (Study Documentation Framework) locally.
 
 Notes
 -----
 
 * Complete each activity before starting the next one.
 * Record any installation issues and their solutions.
-* Practice Linux commands daily to become comfortable with the terminal.
+* Practice Linux commands (idealy daily, but up to you) to become comfortable with the terminal.
 * Ensure the application runs successfully before marking the final activity as complete.
