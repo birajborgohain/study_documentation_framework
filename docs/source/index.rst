@@ -25,6 +25,7 @@ organize, document, and master every aspect of the examination syllabus.
    :maxdepth: 2
 
    activity_plan/index
+   day_activities/index
    introduction_overview/index
    exam_syllebus/index
    practice_problems/index
